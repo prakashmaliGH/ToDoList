@@ -38,7 +38,7 @@
 		EB2BE4ED239524DB00FB933B = {
 			isa = PBXGroup;
 			children = (
-				EB2BE4F8239524DB00FB933B /* Todoey */,
+				EB2BE4F8239524DB00FB933B /* ToDoList */,
 				EB2BE4F7239524DB00FB933B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EB2BE4F8239524DB00FB933B /* Todoey */ = {
+		EB2BE4F8239524DB00FB933B /* ToDoList */ = {
 			isa = PBXGroup;
 			children = (
 				EB2BE4F9239524DB00FB933B /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				EB2BE504239524DC00FB933B /* LaunchScreen.storyboard */,
 				EB2BE507239524DC00FB933B /* Info.plist */,
 			);
-			path = Todoey;
+			path = ToDoList;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EB2BE4F5239524DB00FB933B /* Todoey */ = {
+		EB2BE4F5239524DB00FB933B /* ToDoList */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EB2BE50A239524DC00FB933B /* Build configuration list for PBXNativeTarget "Todoey" */;
+			buildConfigurationList = EB2BE50A239524DC00FB933B /* Build configuration list for PBXNativeTarget "ToDoList" */;
 			buildPhases = (
 				EB2BE4F2239524DB00FB933B /* Sources */,
 				EB2BE4F3239524DB00FB933B /* Frameworks */,
@@ -79,7 +79,7 @@
 			);
 			dependencies = (
 			);
-			name = Todoey;
+			name = ToDoList;
 			productName = Todoey;
 			productReference = EB2BE4F6239524DB00FB933B /* ToDoList.app */;
 			productType = "com.apple.product-type.application";
@@ -92,14 +92,14 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1120;
 				LastUpgradeCheck = 1120;
-				ORGANIZATIONNAME = "App Brewery";
+				ORGANIZATIONNAME = "";
 				TargetAttributes = {
 					EB2BE4F5239524DB00FB933B = {
 						CreatedOnToolsVersion = 11.2.1;
 					};
 				};
 			};
-			buildConfigurationList = EB2BE4F1239524DB00FB933B /* Build configuration list for PBXProject "Todoey" */;
+			buildConfigurationList = EB2BE4F1239524DB00FB933B /* Build configuration list for PBXProject "ToDoList" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EB2BE4F5239524DB00FB933B /* Todoey */,
+				EB2BE4F5239524DB00FB933B /* ToDoList */,
 			);
 		};
 /* End PBXProject section */
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EB2BE4F1239524DB00FB933B /* Build configuration list for PBXProject "Todoey" */ = {
+		EB2BE4F1239524DB00FB933B /* Build configuration list for PBXProject "ToDoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EB2BE508239524DC00FB933B /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EB2BE50A239524DC00FB933B /* Build configuration list for PBXNativeTarget "Todoey" */ = {
+		EB2BE50A239524DC00FB933B /* Build configuration list for PBXNativeTarget "ToDoList" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EB2BE50B239524DC00FB933B /* Debug */,
